@@ -1,0 +1,23 @@
+    <section class="video-section sec-padding" id="others">      
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 d-flex align-items-center">
+                    <div class="video-details">
+                        <h2>Helping people grow their careers, every day!</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sunt aspernatur explicabo deserunt error rem cumque quos autem quo temporibus eos fugiat reprehenderit, cum laboriosam?</p>
+                        <button class="get-btn">Start Learning</button> 
+                    </div>
+                </div>
+                <div class="col-md-6 ml-auto">
+                    <div class="video-image">
+                        <img src="images/picture/stuednt-video.jpg" alt="" class="img-fluid">
+                        <a href="https://www.youtube.com/embed/b6FdqRrrMlQ" target="_blank">
+                            <div class="video-icon">
+                                <img src="images/icon/play.png" alt="">
+                            </div>                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>       
