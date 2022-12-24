@@ -120,7 +120,7 @@ body{
     border-radius: 18px;
 }
 .card-img-top{
-    padding: 20px;
+    padding: 15px;
     padding-bottom: 0;
 }
 .card-body h5{
@@ -137,12 +137,12 @@ body{
     margin-bottom: 19px;
 }
 .buy-btn{
-    padding: 8px 27px;
-    background-color: #21B573;
-    color: #ffffff;
-    border: none;
-    border-radius: 33px;
-    transition: all .3s;
+        padding: 10px 27px;
+        background-color: #21B573;
+        color: #ffffff;
+        border: none;
+        border-radius: 33px;
+        transition: all .3s;
 }
 .buy-btn:hover{
     background-color: #1d9660;
